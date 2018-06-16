@@ -11,9 +11,9 @@ from goose3 import Goose
 from goose3.text import StopWordsChinese
 
 """ 你的 百度 APPID AK SK """
-APP_ID = '11407664'
-API_KEY = 'GT69E8M6sgOcSnIGElrgXo1e'
-SECRET_KEY = 'fOCr1mwnyGOEjZg93GoonaGqzqp0paIB'
+APP_ID = 'xx'
+API_KEY = 'xx'
+SECRET_KEY = 'xx'
 
 # 命令行输入参数处理
 parser = argparse.ArgumentParser()
